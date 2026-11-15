@@ -1,6 +1,6 @@
 # Velvet
 
-Reproductor de música para Android: tu música local con letras sincronizadas, estilos de reproductor, mezclas diarias y estadísticas.
+Reproductor de música para Android: tu música local con letras sincronizadas, estilos de reproductor, reproducción infinita, mezclas diarias, estadísticas y respaldo de tus datos.
 
 ## Descargar
 
@@ -14,5 +14,11 @@ Reproductor de música para Android: tu música local con letras sincronizadas, 
 4. Abre Velvet y dale permiso para leer tu música.
 
 Para actualizar, descarga la versión nueva desde el mismo enlace e instálala encima: no se borra nada.
+
+## Respaldo de tus datos
+
+En **Ajustes → Biblioteca**:
+- **Guardar respaldo** guarda en un archivo tus playlists, favoritos, portadas, estadísticas y ajustes.
+- **Cargar respaldo** lo recupera todo, aunque reinstales Velvet o cambies de teléfono.
 
 Requiere Android 7 o superior.
